@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<int> dx = {-1, 1, 0, 0};
     vector<int> dy = {0, 0, 1, -1};
-    bool canTravel(int i, int j, int d, vector<pair<int,int>>& thieves) {
-        for(auto [r, c] : thieves) {
-            if(abs(i-r)+abs(j-c) < d) return false;
-        }
+    // bool canTravel(int i, int j, int d, vector<pair<int,int>>& thieves) {
+    //     for(auto [r, c] : thieves) {
+    //         if(abs(i-r)+abs(j-c) < d) return false;
+    //     }
 
-        return true;
-    }
+    //     return true;
+    // }
     bool dfs(int i, int j, int n, int d, vector<vector<int>>& grid, vector<vector<int>>& dist, vector<vector<bool>>& vis) {
         vis[i][j] = true;
         if(i == n-1 && j == n-1) return true;
