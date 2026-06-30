@@ -109,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1615-maximal-network-rank](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1615-maximal-network-rank/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
