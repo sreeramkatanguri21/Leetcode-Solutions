@@ -25,8 +25,20 @@ public:
         return dfs(0, 0, m, n, heights, effort, vis);
     }
     int minimumEffortPath(vector<vector<int>>& heights) {
+        //Approach - 2 -> B.S + DFS/BFS -> T.C - O(m*n*log(1e6))
+        int m = heights.size();
+        int n = heights[0].size();
+        int mini = INT_MAX;
+        int maxi = INT_MIN;
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                maxi = max(maxi, heights[i][j]);
+                mini = min(mini, heights[i][j]);
+            }
+        }
         int s = 0;
-        int e = 1e6-1;
+        // int e = 1e6-1;
+        int e = maxi-mini;
         int ans = -1;
 
         while(s <= e) {
