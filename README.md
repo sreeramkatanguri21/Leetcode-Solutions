@@ -89,6 +89,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
