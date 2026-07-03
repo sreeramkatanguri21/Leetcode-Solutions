@@ -20,6 +20,18 @@ public:
         return solve(curr, forward);
     }
     ListNode* reverseList(ListNode* head) {
-        return solve(NULL, head);
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+
+        while(curr) {
+            ListNode* forward = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forward;
+        }
+
+        return prev;
+ 
+        // return solve(NULL, head);
     }
 };
