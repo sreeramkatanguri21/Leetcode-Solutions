@@ -24,7 +24,48 @@ public:
         }
         return false;
     }
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+
+        while(curr) {
+            ListNode* forward = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forward;
+        }
+
+        return prev;
+    }
     bool isPalindrome(ListNode* head) {
-        return solve(head, head);
+        if(head->next == NULL) return true;
+        
+        ListNode* fast = head;
+        ListNode* slow = head;
+        ListNode* prev = NULL;
+
+        while(fast) {
+            fast = fast->next;
+            if(fast) {
+                fast = fast->next;
+                prev = slow;
+                slow = slow->next;
+            }
+        }
+
+        prev->next = NULL;
+        ListNode* newHead = reverseList(slow);
+
+        ListNode* temp1 = head;
+        ListNode* temp2 = newHead;
+
+        while(temp1) {
+            if(temp1->val != temp2->val) return false;
+            temp1 = temp1->next;
+            temp2 = temp2->next;
+        }
+
+        return true;
+        //return solve(head, head);
     }
 };
