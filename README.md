@@ -145,4 +145,12 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
