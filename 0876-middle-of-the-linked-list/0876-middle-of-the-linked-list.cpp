@@ -22,12 +22,26 @@ public:
         return len;
     }
     ListNode* middleNode(ListNode* head) {
-        int n = getLen(head);
-        ListNode* temp = head;
-        for(int i=0; i<n/2; i++) {
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast) {
+            fast = fast->next;
+            if(fast) {
+                fast = fast->next;
+                slow = slow->next;
+            }
         }
 
-        return temp;
+        return slow;
+
+
+        // int n = getLen(head);
+        // ListNode* temp = head;
+        // for(int i=0; i<n/2; i++) {
+        //     temp = temp->next;
+        // }
+
+        // return temp;
     }
 };
