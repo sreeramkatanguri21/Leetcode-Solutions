@@ -19,22 +19,20 @@ public:
         bool isOdd = true;
         ListNode* temp = head;
         while(temp) {
-            cout << temp->val << endl;
+            ListNode* forward = temp->next;
+            temp->next = NULL;
+
             if(isOdd) {
                 oddTemp->next = temp;
                 oddTemp = temp;
-                temp = temp->next;
-                oddTemp->next = NULL;
             }
             else {
                 evenTemp->next = temp;
                 evenTemp = temp;
-                temp = temp->next;
-                evenTemp->next = NULL;
             }
 
             isOdd = !isOdd;
-            
+            temp = forward;
         }
 
         oddTemp->next = even->next;
