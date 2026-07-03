@@ -149,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -162,6 +163,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
