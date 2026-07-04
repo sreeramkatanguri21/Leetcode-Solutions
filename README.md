@@ -60,6 +60,7 @@
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -88,6 +89,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
@@ -128,6 +130,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1615-maximal-network-rank](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1615-maximal-network-rank/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
