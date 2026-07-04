@@ -19,9 +19,8 @@ public:
         }
         return len;
     }
-    ListNode* solve(ListNode* head, int k) {
+    ListNode* solve(ListNode* head, int k, int n) {
         if(head == NULL) return head;
-        int n = getLen(head);
         if(n < k) return head;
 
         ListNode* prev = NULL;
@@ -33,11 +32,12 @@ public:
             curr = forward;
         }
 
-        head->next = solve(curr, k);
+        head->next = solve(curr, k, n-k);
 
         return prev;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        return solve(head, k);
+        int n = getLen(head);
+        return solve(head, k, n);
     }
 };
