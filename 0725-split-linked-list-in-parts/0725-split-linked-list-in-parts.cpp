@@ -29,21 +29,45 @@ public:
         int rem = n%k;
 
         for(int i=0; i<k; i++) {
-            ListNode* head = new ListNode(-1);
-            ListNode* tail = head;
-
-            for(int j=0; j<cnt+(i<rem); j++) {
+            ListNode* start = temp;
+            for(int j=0; j<cnt+(i<rem)-1; j++) {
+                temp = temp->next;
+            }
+            if(temp) {
                 ListNode* forward = temp->next;
                 temp->next = NULL;
-                tail->next = temp;
-                tail = temp;
                 temp = forward;
             }
 
-            ans.push_back(head->next);
-
+            ans.push_back(start);
         }
 
         return ans;
+
+
+
+
+        // vector<ListNode*> ans;
+        // ListNode* temp = head;
+        // int n = getLen(head);
+        // int cnt = n/k;
+        // int rem = n%k;
+
+        // for(int i=0; i<k; i++) {
+        //     ListNode* head = new ListNode(-1);
+        //     ListNode* tail = head;
+
+        //     for(int j=0; j<cnt+(i<rem); j++) {
+        //         ListNode* forward = temp->next;
+        //         temp->next = NULL;
+        //         tail->next = temp;
+        //         tail = temp;
+        //         temp = forward;
+        //     }
+
+        //     ans.push_back(head->next);
+        // }
+
+        // return ans;
     }
 };
