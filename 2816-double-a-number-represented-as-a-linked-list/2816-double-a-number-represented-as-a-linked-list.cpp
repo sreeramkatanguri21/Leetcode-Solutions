@@ -20,14 +20,55 @@ public:
         head->val = digit;
         return carry;
     }
-    ListNode* doubleIt(ListNode* head) {
-        int carry = solve(head);
-        if(carry) {
-            ListNode* newNode = new ListNode(carry);
-            newNode->next = head;
-            head = newNode;
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+
+        while(curr) {
+            ListNode* forward = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forward;
         }
 
+        return prev;
+    }
+    ListNode* doubleIt(ListNode* head) {
+        //Approach-2 -> iterative -> T.C - O(n) , S.C - O(1)
+        head = reverseList(head);
+        int carry = 0;
+        ListNode* temp = head;
+        ListNode* prev = NULL;
+        while(temp) {
+            int sum = 2*temp->val + carry;
+            int digit = sum%10;
+            carry = sum/10;
+            temp->val = digit;
+
+            prev = temp;
+            temp = temp->next;
+        }
+
+        if(carry) {
+            ListNode* newNode = new ListNode(carry);
+            prev->next = newNode;
+        }
+
+        head = reverseList(head);
+
         return head;
+
+
+
+        // Approach-1 -> Recursion -> T.C - O(n), S.C - O(n)
+
+        // int carry = solve(head);
+        // if(carry) {
+        //     ListNode* newNode = new ListNode(carry);
+        //     newNode->next = head;
+        //     head = newNode;
+        // }
+
+        // return head;
     }
 };
