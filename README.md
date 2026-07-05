@@ -14,6 +14,7 @@
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -78,6 +79,7 @@
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
