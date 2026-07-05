@@ -8,23 +8,40 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*, bool> vis;
-        ListNode* temp = headA;
-
+    int getLen(ListNode* head) {
+        ListNode* temp = head;
+        int len = 0;
+        
         while(temp) {
-            vis[temp] = true;
+            len++;
             temp = temp->next;
         }
 
-        temp = headB;
+        return len;
+    }
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int n1 = getLen(headA);
+        int n2 = getLen(headB);
+        ListNode* temp1 = headA;
+        ListNode* temp2 = headB;
 
-        while(temp) {
-            if(vis[temp]) {
-                return temp;
+        if(n1 > n2) {
+            for(int i=0; i<n1-n2; i++) {
+                temp1 = temp1->next;
             }
+        }
+        else {
+            for(int i=0; i<n2-n1; i++) {
+                temp2 = temp2->next;
+            }
+        }
 
-            temp = temp->next;
+        while(temp1 && temp2) {
+            if(temp1 == temp2) {
+                return temp1;
+            }
+            temp1 = temp1->next;
+            temp2 = temp2->next;
         }
 
         return NULL;
