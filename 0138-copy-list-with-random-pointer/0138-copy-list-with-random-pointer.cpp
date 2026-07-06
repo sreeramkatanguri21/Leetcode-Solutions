@@ -27,8 +27,39 @@ public:
         return newHead;
     }
     Node* copyRandomList(Node* head) {
-        unordered_map<Node*, Node*> mpp;
-        mpp[NULL] = NULL;
-        return solve(head, mpp);
+        if(head == NULL) return head;
+        Node* temp = head;
+
+        while(temp) {
+            Node* forward = temp->next;
+            Node* newNode = new Node(temp->val);
+            temp->next = newNode;
+            newNode->next = forward;
+            temp = forward;
+        }
+
+        temp = head;
+        while(temp) {
+            temp->next->random = temp->random?temp->random->next: NULL;
+            temp = temp->next->next;
+        }
+
+        Node* oldList = head;
+        Node* newHead = head->next;
+        Node* newList = head->next;
+
+        while(newList && newList->next) {
+            oldList->next = oldList->next->next;
+            newList->next = newList->next->next;
+            oldList = oldList->next;
+            newList = newList->next;
+        }
+        oldList->next = NULL;
+
+        return newHead;
+
+        // unordered_map<Node*, Node*> mpp;
+        // mpp[NULL] = NULL;
+        // return solve(head, mpp);
     }
 };
