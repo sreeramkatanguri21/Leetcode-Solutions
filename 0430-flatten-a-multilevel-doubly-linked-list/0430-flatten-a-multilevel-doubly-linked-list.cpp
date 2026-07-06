@@ -39,7 +39,36 @@ public:
         return {head, tail};
     }
     Node* flatten(Node* head) {
-        auto [h, t] = solve(head);
-        return h;
+        stack<Node*> s;
+
+        Node* temp = head;
+
+            while(temp) {
+                if(temp->child) {
+                    Node* forward = temp->next;
+                    temp->next = temp->child;
+                    temp->child = NULL;
+                    temp->next->prev = temp;
+                    if(forward) {
+                        forward->prev = NULL;
+                        s.push(forward);
+                    }
+                }
+                if(temp->next == NULL && !s.empty()) {
+                    auto top = s.top();
+                    s.pop();
+                    temp->next = top;
+                    top->prev = temp;
+                }
+                temp = temp->next;
+            }
+
+        return head;
+
+
+
+
+        // auto [h, t] = solve(head);
+        // return h;
     }
 };
