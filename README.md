@@ -13,6 +13,7 @@
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 ## String
