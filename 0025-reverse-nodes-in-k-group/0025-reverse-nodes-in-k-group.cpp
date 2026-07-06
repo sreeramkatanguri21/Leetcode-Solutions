@@ -38,6 +38,52 @@ public:
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
         int n = getLen(head);
-        return solve(head, k, n);
+        if(n < k) return head;
+
+        ListNode* curr = head;
+        ListNode* prev = NULL;
+
+        for(int i=0; i<k; i++) {
+            ListNode* forward = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forward;
+        }
+
+        ListNode* newHead = prev;
+        ListNode* tail = head;
+        head = curr;
+        n -= k;
+
+        while(head) {
+            if(n < k) {
+                tail->next = head;
+                break;
+            }
+
+            ListNode* curr = head;
+            ListNode* prev = NULL;
+
+            for(int i=0; i<k; i++) {
+                ListNode* forward = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = forward;
+            }
+
+            tail->next = prev;
+            tail = head;
+            head = curr;
+            n -= k;
+        }
+
+
+        return newHead;
+
+
+
+
+        // int n = getLen(head);
+        // return solve(head, k, n);
     }
 };
