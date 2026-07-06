@@ -29,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -174,6 +175,7 @@
 | [0061-rotate-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -201,6 +203,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
