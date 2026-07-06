@@ -40,20 +40,8 @@ public:
         int n = getLen(head);
         if(n < k) return head;
 
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-
-        for(int i=0; i<k; i++) {
-            ListNode* forward = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = forward;
-        }
-
-        ListNode* newHead = prev;
-        ListNode* tail = head;
-        head = curr;
-        n -= k;
+        ListNode* newHead = new ListNode(-1);
+        ListNode* tail = newHead;
 
         while(head) {
             if(n < k) {
@@ -78,7 +66,7 @@ public:
         }
 
 
-        return newHead;
+        return newHead->next;
 
 
 
