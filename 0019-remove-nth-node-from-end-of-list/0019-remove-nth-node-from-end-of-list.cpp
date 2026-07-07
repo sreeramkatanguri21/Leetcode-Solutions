@@ -22,19 +22,39 @@ public:
         return len;
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int len = getLen(head);
-        // nth node from the end is same as (len-n+1)th node from the begin(start)
-        int k = len-n+1;
-        if(k == 1) return head->next;
-        ListNode* temp = head;
-        for(int i=0; i<k-2; i++) {
-            temp = temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+        for(int i=0; i<n; i++) {
+            fast = fast->next;
+        }
+        if(!fast) {
+            return head->next;
         }
 
-        ListNode* toDelete = temp->next;
-        temp->next = toDelete->next;
-        toDelete->next = NULL;
-        delete toDelete;
+        while(fast->next) {
+            fast = fast->next;
+            slow = slow->next;
+        }
+
+        slow->next = slow->next->next;
+
         return head;
+
+
+
+        // int len = getLen(head);
+        // // nth node from the end is same as (len-n+1)th node from the begin(start)
+        // int k = len-n+1;
+        // if(k == 1) return head->next;
+        // ListNode* temp = head;
+        // for(int i=0; i<k-2; i++) {
+        //     temp = temp->next;
+        // }
+
+        // ListNode* toDelete = temp->next;
+        // temp->next = toDelete->next;
+        // toDelete->next = NULL;
+        // delete toDelete;
+        // return head;
     }
 };
