@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@
 | [0002-add-two-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
