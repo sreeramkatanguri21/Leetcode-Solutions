@@ -98,6 +98,7 @@
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -250,4 +251,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->
