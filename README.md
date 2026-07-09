@@ -96,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -257,10 +258,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
