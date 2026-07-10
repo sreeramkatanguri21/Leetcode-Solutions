@@ -102,6 +102,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -260,12 +261,14 @@
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
