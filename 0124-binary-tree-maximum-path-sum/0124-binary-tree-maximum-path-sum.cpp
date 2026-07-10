@@ -23,7 +23,6 @@ public:
 
         return max({root->val, root->val+left, root->val+right});
 
-
     }
     int maxPathSum(TreeNode* root) {
         solve(root);
