@@ -17,17 +17,37 @@ public:
 
         return 1 + max(getPathLen(root->left, val), getPathLen(root->right, val));
     }
-    int solve(TreeNode* root) {
+    int solve1(TreeNode* root) {
         if(!root) return 0;
 
         int val = getPathLen(root->left, root->val) + getPathLen(root->right, root->val);
-        int left = solve(root->left);
-        int right = solve(root->right);
+        int left = solve1(root->left);
+        int right = solve1(root->right);
 
         return max({val, left, right});
 
     }
+    pair<int, int> solve(TreeNode* root) {
+        if(!root) return {0, 0};
+
+        auto left = solve(root->left);
+        auto right = solve(root->right);
+        int val = 0;
+        int pathLen = 1;
+        if(root->left && root->left->val == root->val) {
+            val += left.second;
+            pathLen = max(pathLen, 1+left.second);
+        }
+        if(root->right && root->right->val == root->val) {
+            val += right.second;
+            pathLen = max(pathLen, 1+right.second);
+        }
+
+        return {max({val, left.first, right.first}), pathLen};
+
+    }
     int longestUnivaluePath(TreeNode* root) {
-        return solve(root);
+        auto ans = solve(root);
+        return ans.first;
     }
 };
