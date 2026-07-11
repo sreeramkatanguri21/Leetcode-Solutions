@@ -116,6 +116,7 @@
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -286,6 +287,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -298,6 +300,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
