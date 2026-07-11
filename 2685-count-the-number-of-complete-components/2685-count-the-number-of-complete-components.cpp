@@ -2,11 +2,11 @@ class Solution {
 public:
     void dfs(int src, vector<vector<int>>& adj, vector<bool>& vis, int &m, int &e) {
         vis[src] = true;
-        m++;
+        m++; 
 
         // traverse all neighbouring nodes
         for(auto v: adj[src]) {
-            e++;
+            e++; // (src - v) -> edge found
             if(!vis[v]) {
                 dfs(v, adj, vis, m, e);
             }
