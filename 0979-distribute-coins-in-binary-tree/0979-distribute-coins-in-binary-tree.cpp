@@ -17,7 +17,7 @@ public:
         int left = solve(root->left, ans);
         int right = solve(root->right, ans);
 
-        int val = root->val + left + right - 1;
+        int val = root->val + left + right - 1; // val -> excess coins in current node(root)
         ans += abs(val);
 
         return val;
