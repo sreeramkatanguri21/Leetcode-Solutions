@@ -13,7 +13,7 @@ public:
         }
     }
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-
+        // Approach - 1 -> BFS/DFS -> T.C - O(V + E) , S.C - O(V)
         //create a graph using adj list
         vector<vector<int>> adj(n);
         for(auto edge: edges) {
