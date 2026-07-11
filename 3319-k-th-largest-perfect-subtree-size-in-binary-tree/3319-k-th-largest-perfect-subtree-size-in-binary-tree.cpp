@@ -35,9 +35,23 @@ public:
 
         return {isBalanced, left.second+1};
     }
+    pair<bool, int> solve1(TreeNode* root, vector<int>& v) {
+        if(!root) return {true, 0};
+
+        auto left = solve1(root->left, v);
+        auto right = solve1(root->right, v);
+
+        bool isBalanced = false;
+        if(left.first && right.first && left.second == right.second) {
+            isBalanced = true;
+            v.push_back(left.second+right.second+1);
+        }
+
+        return {isBalanced, left.second+right.second+1};
+    }
     int kthLargestPerfectSubtree(TreeNode* root, int k) {
         vector<int> v;
-        solve(root, v);
+        solve1(root, v);
 
         sort(rbegin(v), rend(v));
         if(k > v.size()) return -1;
