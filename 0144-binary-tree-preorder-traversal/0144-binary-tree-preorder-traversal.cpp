@@ -19,23 +19,52 @@ public:
         preOrder(root->right, ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
-        
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
+
         vector<int> ans;
+        TreeNode* curr = root;
 
-        while(curr || !st.empty()) {
-            if(!curr) {
-                curr = st.top();
-                st.pop();
+        while(curr) {
+            if(!curr->left) {
+                ans.push_back(curr->val);
+                curr = curr->right;
             }
+            else {
+                TreeNode* prev = curr->left;
 
-            ans.push_back(curr->val);
-            if(curr->right) st.push(curr->right);
-            curr = curr->left;
+                while(prev->right && prev->right != curr) {
+                    prev = prev->right;
+                }
+
+                if(prev->right == curr) {
+                    prev->right = NULL;
+                    curr = curr->right;
+                }
+                else {
+                    prev->right = curr;
+                    ans.push_back(curr->val);
+                    curr = curr->left;
+                }
+            }
         }
 
         return ans;
+        
+        // stack<TreeNode*> st;
+        // TreeNode* curr = root;
+        // vector<int> ans;
+
+        // while(curr || !st.empty()) {
+        //     if(!curr) {
+        //         curr = st.top();
+        //         st.pop();
+        //     }
+
+        //     ans.push_back(curr->val);
+        //     if(curr->right) st.push(curr->right);
+        //     curr = curr->left;
+        // }
+
+        // return ans;
 
 
 
