@@ -20,6 +20,7 @@
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -262,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -325,6 +327,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Combinatorics
