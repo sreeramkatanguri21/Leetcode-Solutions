@@ -111,6 +111,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
@@ -259,6 +260,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -297,6 +299,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
@@ -311,6 +314,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
