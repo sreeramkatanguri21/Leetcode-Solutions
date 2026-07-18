@@ -34,18 +34,23 @@ public:
 
         return str;
     }
+    string decode(string data, int& i) {
+        string curr = "";
+        while(i < data.length() && data[i] != ',') {
+            curr.push_back(data[i++]);
+        }
+        i++;
 
+        return curr;
+    }
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
         if(data.length() < 3) return NULL;
         
         queue<TreeNode*> q;
         int i = 0;
-        string curr = "";
-        while(i < data.length() && data[i] != ',') {
-            curr.push_back(data[i++]);
-        }
-        i++;
+        string curr = decode(data, i);
+
         int val = stoi(curr);
         TreeNode* root = new TreeNode(val);
         q.push(root);
@@ -54,11 +59,7 @@ public:
             auto temp = q.front();
             q.pop();
 
-            string curr = "";
-            while(i < data.length() && data[i] != ',') {
-                curr.push_back(data[i++]);
-            }
-            i++;
+            string curr = decode(data, i);
 
             if(curr != "N") {
                 int val = stoi(curr);
@@ -67,11 +68,7 @@ public:
                 q.push(left);
             }
 
-            curr = "";
-            while(i < data.length() && data[i] != ',') {
-                curr.push_back(data[i++]);
-            }
-            i++;
+            curr = decode(data, i);
 
             if(curr != "N") {
                 int val = stoi(curr);
