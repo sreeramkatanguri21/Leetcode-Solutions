@@ -20,26 +20,58 @@ public:
     }
     vector<int> postorderTraversal(TreeNode* root) {
         if(!root) return {};
-
+        stack<TreeNode*> st;
         vector<int> ans;
-        stack<TreeNode*> st1, st2;
-        st1.push(root);
+        auto curr = root;
 
-        while(!st1.empty()) {
-            auto curr = st1.top();
-            st1.pop();
-            st2.push(curr);
+        while(curr || !st.empty()) {
+            if(curr) {
+                st.push(curr);
+                curr = curr->left;
+            }
+            else {
+                auto temp = st.top()->right;
+                if(!temp) {
+                    temp = st.top();
+                    st.pop();
+                    ans.push_back(temp->val);
 
-            if(curr->left) st1.push(curr->left);
-            if(curr->right) st1.push(curr->right);
-        }
-
-        while(!st2.empty()) {
-            ans.push_back(st2.top()->val);
-            st2.pop();
+                    while(!st.empty() && st.top()->right == temp) {
+                        temp = st.top();
+                        st.pop();
+                        ans.push_back(temp->val);
+                    }
+                }
+                else {
+                    curr = temp;
+                }
+            }
         }
 
         return ans;
+
+
+
+
+        // vector<int> ans;
+        // stack<TreeNode*> st1, st2;
+        // st1.push(root);
+
+        // while(!st1.empty()) {
+        //     auto curr = st1.top();
+        //     st1.pop();
+        //     st2.push(curr);
+
+        //     if(curr->left) st1.push(curr->left);
+        //     if(curr->right) st1.push(curr->right);
+        // }
+
+        // while(!st2.empty()) {
+        //     ans.push_back(st2.top()->val);
+        //     st2.pop();
+        // }
+
+        // return ans;
 
         // vector<int> ans;
         // postOrder(root, ans);
