@@ -19,26 +19,58 @@ public:
         inorder(root->right, ans);
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
         vector<int> ans;
+        TreeNode* curr = root;
+
         while(curr) {
-            st.push(curr);
-            curr = curr->left;
-        }
+            if(!curr->left) {
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            else {
+                TreeNode* prev = curr->left;
 
-        while(!st.empty()) {
-            ans.push_back(st.top()->val);
-            TreeNode* curr = st.top()->right;
-            st.pop();
+                while(prev->right && prev->right != curr) {
+                    prev = prev->right;
+                }
 
-            while(curr) {
-                st.push(curr);
-                curr = curr->left;
+                if(prev->right == curr) {
+                    ans.push_back(curr->val);
+                    prev->right = NULL;
+                    curr = curr->right;
+                }
+                else {
+                    prev->right = curr;
+                    curr = curr->left;
+                }
             }
         }
 
         return ans;
+
+
+
+
+        // stack<TreeNode*> st;
+        // TreeNode* curr = root;
+        // vector<int> ans;
+        // while(curr) {
+        //     st.push(curr);
+        //     curr = curr->left;
+        // }
+
+        // while(!st.empty()) {
+        //     ans.push_back(st.top()->val);
+        //     TreeNode* curr = st.top()->right;
+        //     st.pop();
+
+        //     while(curr) {
+        //         st.push(curr);
+        //         curr = curr->left;
+        //     }
+        // }
+
+        // return ans;
 
         // vector<int> ans;
         // inorder(root, ans);
