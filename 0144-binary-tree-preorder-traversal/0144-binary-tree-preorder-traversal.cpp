@@ -19,8 +19,29 @@ public:
         preOrder(root->right, ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
+        
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
         vector<int> ans;
-        preOrder(root, ans);
+
+        while(curr || !st.empty()) {
+            if(!curr) {
+                curr = st.top();
+                st.pop();
+            }
+
+            ans.push_back(curr->val);
+            if(curr->right) st.push(curr->right);
+            curr = curr->left;
+        }
+
         return ans;
+
+
+
+        // Approach-1 -> Using Recursion -> T.C -> O(n), S.C -> O(n) [auxilary recursive stack space]
+        // vector<int> ans;
+        // preOrder(root, ans);
+        // return ans;
     }
 };
