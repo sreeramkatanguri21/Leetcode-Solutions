@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-    int cnt = 0;
-    int solve(TreeNode* root) {
+    int solve(TreeNode* root, int& cnt) {
         if(!root) return INT_MIN;
 
-        int left = solve(root->left);
-        int right = solve(root->right);
+        int left = solve(root->left, cnt);
+        int right = solve(root->right, cnt);
 
         if(root->val >= left && root->val >= right) cnt++;
 
         return max({root->val, left, right});
     }
     int countDominantNodes(TreeNode* root) {
-        solve(root);
+        int cnt = 0;
+        solve(root, cnt);
         return cnt;
     }
 };
