@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+        
+        // Approach - 2 -> Better Approach, T.C -> O(m*n), S.C -> O(1);
         int m = grid.size();
         int n = grid[0].size();
         k = k%(m*n);
