@@ -4,20 +4,11 @@ public:
         int n = nums.size();
         if(n < 3) return n;
 
-        int ans = 1;
         int i;
         for(i=31; i>=0; i--) {
-            if(((n >> i) & 1)) {
-                ans = 1 << i;
-                break;
-            }
+            if((n >> (i-1) & 1)) return (1 << i);
         }
 
-        while(i--) {
-            cout << i << " ";
-            ans = ans | (1 << i);
-        }
-
-        return ans+1;
+        return -1;
     }
 };
