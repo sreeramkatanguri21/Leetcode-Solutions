@@ -30,6 +30,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -295,6 +296,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Divide and Conquer
@@ -364,6 +366,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
