@@ -140,6 +140,7 @@
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -163,6 +164,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -331,6 +333,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -348,6 +351,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Backtracking
