@@ -169,6 +169,7 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
