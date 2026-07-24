@@ -97,6 +97,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -203,6 +204,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1615-maximal-network-rank](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1615-maximal-network-rank/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
@@ -227,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
