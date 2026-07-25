@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0057-insert-interval](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -39,6 +40,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -314,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -340,6 +343,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -359,6 +363,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
