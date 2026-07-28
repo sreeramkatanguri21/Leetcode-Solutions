@@ -25,7 +25,21 @@ public:
 
         return root;
     }
+    void solve2(TreeNode* &root, int val) {
+        if(!root) {
+            root = new TreeNode(val);
+            return;
+        }
+
+        if(val < root->val) {
+            solve2(root->left, val);
+        }
+        else {
+            solve2(root->right, val);
+        }
+    }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        return solve(root, val);
+        solve2(root, val);
+        return root;
     }
 };
