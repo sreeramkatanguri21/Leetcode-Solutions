@@ -367,6 +367,7 @@
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
@@ -389,6 +390,7 @@
 | [0563-binary-tree-tilt](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
@@ -437,4 +439,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
