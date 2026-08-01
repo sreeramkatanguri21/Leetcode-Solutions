@@ -11,6 +11,7 @@
 | [0130-surrounded-regions](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -182,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -287,6 +289,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -449,4 +453,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
