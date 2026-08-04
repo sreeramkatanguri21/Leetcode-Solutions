@@ -1,18 +1,11 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        int mini = INT_MAX;
-        int maxi = INT_MIN;
-        unordered_map<int, bool> vis;
-        for(auto num: nums) {
-            mini = min(mini, num);
-            maxi = max(maxi, num);
-
-            vis[num] = true;
-        }
+        unordered_set<int> st(begin(nums), end(nums));
+        auto [mini, maxi] = ranges::minmax(nums);
         vector<int> ans;
-        for(int i=mini; i<=maxi; i++) {
-            if(!vis.count(i)) {
+        for(int i=mini+1; i<maxi; i++) {
+            if(!st.count(i)) {
                 ans.push_back(i);
             }
         }
