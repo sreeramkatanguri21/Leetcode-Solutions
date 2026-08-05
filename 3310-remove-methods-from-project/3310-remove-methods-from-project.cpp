@@ -1,12 +1,11 @@
 class Solution {
 public:
-    void dfs(int k, vector<vector<int>>& adj, vector<bool>& infected, vector<bool>& vis) {
-        vis[k] = true;
+    void dfs(int k, vector<vector<int>>& adj, vector<bool>& infected) {
         infected[k] = true;
 
         for(auto v: adj[k]) {
-            if(!vis[v]) {
-                dfs(v, adj, infected, vis);
+            if(!infected[v]) {
+                dfs(v, adj, infected);
             }
         }
     }
@@ -16,8 +15,7 @@ public:
             adj[e[0]].push_back(e[1]);
         }
         vector<bool> infected(n, false);
-        vector<bool> vis(n, false);
-        dfs(k, adj, infected, vis);
+        dfs(k, adj, infected);
         bool allNodes = false;
         for(int i=0; i<n; i++) {
             if(!infected[i]) {
