@@ -11,23 +11,38 @@
  */
 class Solution {
 public:
-    bool isCompleteTree(TreeNode* root) {
-        queue<pair<TreeNode*, int>> q;
-        q.push({root, 1});
+    int totalNodes(TreeNode* root) {
+        if(!root) return 0;
+        return 1 + totalNodes(root->left) + totalNodes(root->right);
+    }
+    bool solve(TreeNode* root, int idx, int n) {
+        if(!root) return true;
 
-        int idx = 1;
-        while(!q.empty()) {
-            auto [node, i] = q.front();
-            q.pop();
-
-            if(i != idx) return false;
-            idx++;
-
-            if(node->left) q.push({node->left, 2*i});
-            if(node->right) q.push({node->right, 2*i+1});
+        if(idx > n) {
+            return false;
         }
 
-        return true;
+        return solve(root->left, 2*idx, n) && solve(root->right, 2*idx+1, n);
+    }
+    bool isCompleteTree(TreeNode* root) {
+        int n = totalNodes(root);
+        return solve(root, 1, n);
+        // queue<pair<TreeNode*, int>> q;
+        // q.push({root, 1});
+
+        // int idx = 1;
+        // while(!q.empty()) {
+        //     auto [node, i] = q.front();
+        //     q.pop();
+
+        //     if(i != idx) return false;
+        //     idx++;
+
+        //     if(node->left) q.push({node->left, 2*i});
+        //     if(node->right) q.push({node->right, 2*i+1});
+        // }
+
+        // return true;
 
     }
 };
