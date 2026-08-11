@@ -75,6 +75,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
