@@ -80,6 +80,7 @@
 | [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -242,6 +243,7 @@
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -356,6 +358,7 @@
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
