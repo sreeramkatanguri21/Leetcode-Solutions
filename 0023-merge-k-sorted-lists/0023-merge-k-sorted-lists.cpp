@@ -8,6 +8,12 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+class Compare {
+    public: 
+        bool operator()(auto &a, auto& b) {
+            return a->val > b->val;
+        }
+};
 class Solution {
 public:
     ListNode* merge(ListNode* left, ListNode* right) {
@@ -51,9 +57,33 @@ public:
 
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int s = 0;
-        int e = lists.size()-1;
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq; 
 
-        return solve(lists, s, e);
+        for(auto node: lists) {
+            if(node) pq.push(node);
+        }
+
+        ListNode* head = new ListNode(-1);
+        ListNode* tail = head;
+
+        while(!pq.empty()) {
+            auto top = pq.top();
+            pq.pop();
+
+            if(top->next) {
+                pq.push(top->next);
+                top->next = NULL;
+            }
+
+            tail->next = top;
+            tail = top;
+        }
+
+        return head->next;
+
+        // int s = 0;
+        // int e = lists.size()-1;
+
+        // return solve(lists, s, e);
     }
 };
