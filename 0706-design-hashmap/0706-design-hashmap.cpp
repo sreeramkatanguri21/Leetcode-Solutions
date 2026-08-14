@@ -31,8 +31,7 @@ public:
             buckets[idx].push_back({key, value});
         }
         else {
-            auto& [k, v] = *it;
-            v = value;
+            (*it).second = value;
         }
     }
     
