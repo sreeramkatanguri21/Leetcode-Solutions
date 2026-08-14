@@ -16,6 +16,7 @@
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -60,6 +61,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -317,6 +319,7 @@
 | [0328-odd-even-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -495,6 +498,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,4 +558,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
