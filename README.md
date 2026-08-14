@@ -67,6 +67,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -257,6 +258,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -506,6 +508,7 @@
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +564,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
