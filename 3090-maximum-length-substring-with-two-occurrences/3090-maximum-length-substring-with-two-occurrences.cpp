@@ -5,15 +5,16 @@ public:
         int ans = 0;
         int l = 0;
         int r = 0;
+        int cnt = 0;
         unordered_map<char, int> mpp;
         while(r < n) {
             mpp[s[r]]++;
-            
-            while(mpp[s[r]] > 2) {
+            if(mpp[s[r]]> 2) cnt++;
+            if(cnt > 0) {
+                if(mpp[s[l]] > 2) cnt--;
                 mpp[s[l]]--;
                 l++;
             }
-
 
             ans = max(ans, r-l+1);
             r++;
