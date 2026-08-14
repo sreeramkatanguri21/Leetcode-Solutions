@@ -44,6 +44,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -72,6 +73,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -214,6 +216,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -381,6 +384,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -488,6 +492,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,4 +575,16 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 <!---LeetCode Topics End-->
