@@ -404,6 +404,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -490,6 +491,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Design
@@ -499,6 +501,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
