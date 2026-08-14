@@ -1,20 +1,60 @@
 class MyHashMap {
 public:
-    vector<int> vec;
+    vector<list<pair<int,int>>> buckets;
+    int M;
     MyHashMap() {
-        vec.resize(1e6+1, -1);
+        M = 15000;
+        buckets.resize(M, list<pair<int,int>>{});
     }
-    
+
+    int getIdx(int key) {
+        return key%M;
+    }
+    list<pair<int,int>>::iterator findKey(int key, int idx) {
+        list<pair<int,int>>::iterator it = buckets[idx].begin();
+
+        while(it != buckets[idx].end()) {
+            auto [k, v] = *it;
+            if(k == key) return it;
+
+            it++;
+        }
+
+        return it;
+    }
     void put(int key, int value) {
-        vec[key] = value;
+        int idx = getIdx(key);
+
+        auto it = findKey(key, idx);
+
+        if(it == buckets[idx].end()) {
+            buckets[idx].push_back({key, value});
+        }
+        else {
+            auto& [k, v] = *it;
+            v = value;
+        }
     }
     
     int get(int key) {
-        return vec[key];
+        int idx = getIdx(key);
+
+        auto it = findKey(key, idx);
+
+        if(it != buckets[idx].end()) {
+            return (*it).second;
+        }
+        else return -1;
     }
     
     void remove(int key) {
-        vec[key] = -1;
+        int idx = getIdx(key);
+
+        auto it = findKey(key, idx);
+
+        if(it != buckets[idx].end()) {
+            buckets[idx].erase(it);
+        }
     }
 };
 
