@@ -68,6 +68,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -127,6 +128,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -521,6 +523,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -607,6 +610,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
