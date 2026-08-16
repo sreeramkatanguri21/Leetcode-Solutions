@@ -49,20 +49,30 @@ class Trie {
 class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
+
         int n = pref.length();
         int cnt = 0;
         
         for(auto& word: words) {
-            bool match = true;
-            for(int i=0; i<n; i++) {
-                if(word[i] != pref[i]) {
-                    match = false;
-                    break;
-                }
-            }
-            if(match) cnt++;
+            if(word.find(pref) == 0) cnt++;
         }
 
         return cnt;
+
+        // int n = pref.length();
+        // int cnt = 0;
+        
+        // for(auto& word: words) {
+        //     bool match = true;
+        //     for(int i=0; i<n; i++) {
+        //         if(word[i] != pref[i]) {
+        //             match = false;
+        //             break;
+        //         }
+        //     }
+        //     if(match) cnt++;
+        // }
+
+        // return cnt;
     }
 };
