@@ -1,11 +1,13 @@
 class Node {
     public:
         Node* links[26];
-        bool isEnd;
+        int cntWithPrefix;
+        int cntWithEnd;
 
         Node() {
             for(int i=0; i<26; i++) links[i] = NULL;
-            isEnd = false; 
+            cntWithPrefix = 0;
+            cntWithEnd = 0;
         }
 
         bool containsKey(char ch) {
@@ -20,8 +22,18 @@ class Node {
             links[ch-'a'] = node;
         }
 
-        void setEnd() {
-            isEnd = true;
+        void increasePrefix() {
+            cntWithPrefix++;
+        }
+        void decreasePrefix() {
+            cntWithPrefix--;
+        }
+
+        void increaseEnd() {
+            cntWithEnd++;
+        }
+        void decreaseEnd() {
+            cntWithEnd--;
         }
 };
 class Trie {
@@ -41,23 +53,43 @@ class Trie {
                 }
 
                 node = node->get(ch);
+                node->increasePrefix();
             }
 
-            node->setEnd();
+            node->increaseEnd();
+        }
+
+        int findCntWithPrefix(string pref) {
+            Node* node = root;
+            
+            for(auto &ch: pref) {
+                if(!node->containsKey(ch)) return 0;
+                node = node->get(ch);
+            }
+
+            return node->cntWithPrefix;
         }
 };
 class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
-
-        int n = pref.length();
-        int cnt = 0;
+        Trie* trie = new Trie();
         
         for(auto& word: words) {
-            if(word.find(pref) == 0) cnt++;
+            trie->insert(word);
         }
 
-        return cnt;
+        return trie->findCntWithPrefix(pref);
+
+
+        // int n = pref.length();
+        // int cnt = 0;
+        
+        // for(auto& word: words) {
+        //     if(word.find(pref) == 0) cnt++;
+        // }
+
+        // return cnt;
 
         // int n = pref.length();
         // int cnt = 0;
