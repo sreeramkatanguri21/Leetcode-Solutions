@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0057-insert-interval](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -118,6 +119,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -589,4 +591,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
