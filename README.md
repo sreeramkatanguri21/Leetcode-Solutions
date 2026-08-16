@@ -32,6 +32,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -337,6 +338,7 @@
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -374,6 +376,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -416,6 +419,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +524,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
@@ -554,6 +559,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
