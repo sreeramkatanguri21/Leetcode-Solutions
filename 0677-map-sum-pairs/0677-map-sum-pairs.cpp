@@ -1,10 +1,12 @@
 class Node {
     public:
         Node* links[26];
+        int prefixScore;
         bool isEnd;
 
         Node() {
             for(int i=0; i<26; i++) links[i] = NULL;
+            prefixScore = 0;
             isEnd = false; 
         }
 
@@ -23,6 +25,9 @@ class Node {
         void setEnd() {
             isEnd = true;
         }
+        void addScore(int score) {
+            prefixScore += score;
+        }
 };
 class Trie {
     public:
@@ -32,7 +37,7 @@ class Trie {
             root = new Node();
         }
 
-        void insert(string word) {
+        void insert(string word, int score) {
             Node* node = root;
 
             for(auto &ch: word) {
@@ -41,6 +46,7 @@ class Trie {
                 }
 
                 node = node->get(ch);
+                node->addScore(score);
             }
 
             node->setEnd();
@@ -73,6 +79,20 @@ class Trie {
             return ans;
         }
 
+        int findScore(string prefix) {
+            Node* node = root;
+
+            for(auto& ch: prefix) {
+                if(!node->containsKey(ch)) {
+                    return 0;
+                }
+
+                node = node->get(ch);
+            }
+
+            return node->prefixScore;
+        }
+
 };
 class MapSum {
 public:
@@ -83,12 +103,17 @@ public:
     }
     
     void insert(string key, int val) {
-        mpp[key] = val;
-        trie->insert(key);
+        if(mpp.count(key)) {
+            int diff = val - mpp[key];
+            mpp[key] = val;
+            val = diff;
+        }
+        else mpp[key] = val;
+        trie->insert(key, val);
     }
     
     int sum(string prefix) {
-        return trie->findAllWordsWithPrefix(prefix, mpp);
+        return trie->findScore(prefix);
     }
 };
 
