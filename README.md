@@ -13,6 +13,7 @@
 | [0130-surrounded-regions](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
@@ -73,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -138,6 +140,7 @@
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0420-strong-password-checker](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0420-strong-password-checker/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
@@ -616,6 +619,7 @@
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0705-design-hashset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Least Common Multiple
@@ -635,6 +639,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
