@@ -2,10 +2,10 @@ class Compare {
     public:
         bool operator()(auto& a, auto& b) {
             if(a.first == b.first ) {
-                return a.second > b.second;
+                return a.second < b.second;
             }
 
-            return a.first < b.first;
+            return a.first > b.first;
         }
 };
 class Solution {
@@ -20,6 +20,7 @@ public:
 
         for(auto [s, f]: mpp) {
             pq.push({f, s});
+            if(pq.size() > k) pq.pop();
         }
 
         vector<string> ans;
@@ -27,9 +28,8 @@ public:
             auto [f, s] = pq.top();
             pq.pop();
             ans.push_back(s);
-            if(ans.size() == k) break;
         }
-
+        ranges::reverse(ans);
         return ans;
     }
 };
