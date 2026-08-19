@@ -16,18 +16,7 @@ public:
             auto v = reservedSeats[i];
             mpp[v[0]].insert(v[1]);
         }
-        // for(int i=1; i<=n; i++) {
-        //     if(!mpp.count(i)) {
-        //         cnt += 2;
-        //         continue;
-        //     }
-        //     if(check(i, 2, 9)) {
-        //             cnt += 2;
-        //     }
-        //     else if(check(i, 2, 5) || check(i, 4, 7) || check(i, 6, 9)) {
-        //         cnt++;
-        //     }
-        // }
+
         int rowCount = 0;
         for(auto [r, st]: mpp) {
             rowCount++;
@@ -43,6 +32,22 @@ public:
 
         return cnt + (n-rowCount)*2;
 
+
+
+
+        
+        // for(int i=1; i<=n; i++) {
+        //     if(!mpp.count(i)) {
+        //         cnt += 2;
+        //         continue;
+        //     }
+        //     if(check(i, 2, 9)) {
+        //             cnt += 2;
+        //     }
+        //     else if(check(i, 2, 5) || check(i, 4, 7) || check(i, 6, 9)) {
+        //         cnt++;
+        //     }
+        // }
 
         // int cnt = 0;
         // ranges::sort(reservedSeats);
