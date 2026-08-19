@@ -26,6 +26,7 @@
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -141,6 +142,7 @@
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -380,6 +382,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -635,9 +638,11 @@
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
