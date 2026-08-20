@@ -51,6 +51,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -450,6 +451,7 @@
 | [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
