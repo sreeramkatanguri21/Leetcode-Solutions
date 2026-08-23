@@ -116,6 +116,7 @@
 | [1386-cinema-seat-allocation](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -155,6 +156,7 @@
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -420,6 +422,7 @@
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -600,6 +603,7 @@
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
