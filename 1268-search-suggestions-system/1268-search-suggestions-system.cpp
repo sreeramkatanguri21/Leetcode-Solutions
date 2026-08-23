@@ -68,7 +68,7 @@ class Trie {
             for(int i=0; i<26; i++) {
                 char ch = 'a' + i;
                 if(node->containsKey(ch)) {
-                    helper(node->get(ch), str + ch, curr);
+                    if(curr.size() < 3) helper(node->get(ch), str + ch, curr);
                 }
             }
         }
