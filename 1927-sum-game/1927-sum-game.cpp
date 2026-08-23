@@ -18,17 +18,15 @@ public:
             int diffSum = sum2 - sum1;
             int diffQ = q1-q2;
             if(diffSum < 0) return true;
-            if(diffQ & 1) return true;
-            else if(diffQ%2 == 0 && diffSum == diffQ/2*9) return false;
-            return true;
+            if(diffQ%2 == 0 && diffSum == diffQ/2*9) return false;
+            else return true;
         }
         else if(q2 > q1) {
             int diffSum = sum1 - sum2;
             int diffQ = q2-q1;
             if(diffSum < 0) return true;
-            if(diffQ & 1) return true;
-            else if(diffQ%2 == 0 && diffSum == diffQ/2*9) return false;
-            return true;
+            if(diffQ%2 == 0 && diffSum == diffQ/2*9) return false;
+            else return true;
         }
         else {
             return sum1 != sum2;
