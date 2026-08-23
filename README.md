@@ -78,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -145,6 +146,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
@@ -565,6 +567,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0676-implement-magic-dictionary](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
@@ -660,6 +663,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0648-replace-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0648-replace-words/) | Medium |
