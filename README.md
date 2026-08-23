@@ -31,6 +31,7 @@
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -131,6 +132,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -157,6 +159,7 @@
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -282,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -299,6 +303,7 @@
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
@@ -671,6 +676,7 @@
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
