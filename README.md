@@ -42,6 +42,7 @@
 | [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -276,6 +277,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -429,6 +431,7 @@
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1753-maximum-score-from-removing-stones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -477,6 +480,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Tree
@@ -611,6 +615,7 @@
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Data Stream
@@ -624,6 +629,7 @@
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -631,6 +637,7 @@
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
