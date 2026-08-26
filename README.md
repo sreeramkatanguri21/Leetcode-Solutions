@@ -51,6 +51,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -98,6 +99,7 @@
 | [1386-cinema-seat-allocation](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -172,6 +174,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -322,6 +325,7 @@
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -603,6 +607,7 @@
 | [1603-design-parking-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -668,6 +673,7 @@
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
