@@ -168,6 +168,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -342,6 +343,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Topological Sort
