@@ -48,6 +48,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2043-simple-bank-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -130,6 +131,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
