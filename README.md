@@ -68,6 +68,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -108,6 +109,7 @@
 | [3378-count-connected-components-in-lcm-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -216,6 +218,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +236,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +575,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
