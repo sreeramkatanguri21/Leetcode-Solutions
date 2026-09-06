@@ -9,12 +9,14 @@ public:
 
         if(dp[i][j] != -1) return dp[i][j];
 
+        int ans = 0;
         if(s[i] == t[j]) {
-            return dp[i][j] = solve(i+1, j+1, s, t) + solve(i+1, j, s, t);
+            ans = solve(i+1, j+1, s, t);
         }
-        else {
-            return dp[i][j] = solve(i+1, j, s, t);
-        }
+
+        ans += solve(i+1, j, s, t);
+
+        return dp[i][j] = ans;
     }
     int numDistinct(string s, string t) {
         m = s.length();
