@@ -167,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0115-distinct-subsequences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -290,6 +291,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
