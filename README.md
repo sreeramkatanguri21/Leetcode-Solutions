@@ -178,6 +178,7 @@
 | [0676-implement-magic-dictionary](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -298,6 +299,7 @@
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
