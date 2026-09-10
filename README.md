@@ -14,6 +14,7 @@
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0336-palindrome-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0336-palindrome-pairs/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -497,6 +498,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -626,6 +628,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0355-design-twitter](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
@@ -644,6 +647,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Counting Sort
@@ -757,4 +761,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
