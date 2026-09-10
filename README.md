@@ -272,6 +272,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -548,6 +549,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -574,6 +576,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
