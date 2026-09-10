@@ -25,10 +25,8 @@ public:
             pq.pop();
 
             if(u == m*n-1) {
-                //cout << t << " " << d << endl;
                 return cost;
             }
-            //if(u == 5) cout << cost << " " << t <<  " " << d << endl;
 
             if(cost > dist[u][t][d]) continue;
 
