@@ -27,7 +27,6 @@ public:
         for(int dig=lb; dig<=ub; dig++) {
             if(mask & (1 << dig)) continue;
             ans += solve(s, idx+1, (tight && (dig==ub)), (lz && dig==0),(lz && dig==0)?mask:(mask | (1 << dig)), n);
-            if(n == 0) cout << ans;
         }
 
         return dp[idx][tight][lz][mask] = ans;
