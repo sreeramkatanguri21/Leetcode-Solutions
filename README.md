@@ -29,6 +29,7 @@
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0846-hand-of-straights](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0994-rotting-oranges](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -183,6 +184,7 @@
 | [0676-implement-magic-dictionary](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0676-implement-magic-dictionary/) | Medium |
 | [0677-map-sum-pairs](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1023-camelcase-matching](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -307,6 +309,7 @@
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0790-domino-and-tromino-tiling](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
@@ -325,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -477,6 +481,7 @@
 | [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0902-numbers-at-most-n-given-digit-set/) | Hard |
 | [1012-numbers-with-repeated-digits](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1140-stone-game-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
