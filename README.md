@@ -56,6 +56,7 @@
 | [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -323,6 +324,7 @@
 | [1268-search-suggestions-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -350,6 +352,7 @@
 | [2349-design-a-number-container-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2349-design-a-number-container-system/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
@@ -461,6 +464,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -648,11 +652,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -769,6 +775,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
