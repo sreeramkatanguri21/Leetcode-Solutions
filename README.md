@@ -301,6 +301,7 @@
 | [0115-distinct-subsequences](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
@@ -469,6 +470,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0486-predict-the-winner](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -592,6 +594,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sreeramkatanguri21/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
