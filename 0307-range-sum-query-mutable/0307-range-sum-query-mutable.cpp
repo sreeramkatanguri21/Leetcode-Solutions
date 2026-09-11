@@ -1,64 +1,64 @@
-class SegmentTree {
-    vector<int> segTree;
-    
+class FenwickTree {
+    vector<int> fen;
+    int N;
+
     public:
-    SegmentTree(int n) {
-        segTree.resize(4*n, -1);
-    }
-    
-    void buildTree(int i, int s, int e, vector<int>& arr) {
-        if(s == e) {
-            segTree[i] = arr[s];
-            return;
-        }
-        
-        int mid = s + (e-s)/2;
-        buildTree(2*i+1, s, mid, arr);
-        buildTree(2*i+2, mid+1, e, arr);
-        
-        segTree[i] = segTree[2*i+1] + segTree[2*i+2];
-    }
-    void update(int i, int s, int e, int idx, int val) {
-        if(s == e) {
-            segTree[i] = val;
-            return;
+        FenwickTree(int n) {
+            N = n+1; // since Fenwick Tree is using 1-based indexing, so the size of fen must be n+1
+            fen.resize(N, 0);
         }
 
-        int mid = s + (e-s)/2;
-        if(idx <= mid) {
-            update(2*i+1, s, mid, idx, val); 
-        }
-        else {
-            update(2*i+2, mid+1, e, idx, val);
+        void buildTree(vector<int>& arr) {
+            for(int i=1; i<N; i++) {
+                fen[i] += arr[i-1];
+                int parent = i + (i & (-i));
+                if(parent < N) {
+                    fen[parent] += fen[i];
+                }
+            }
         }
 
-        segTree[i] = segTree[2*i+1] + segTree[2*i+2];
-    }
-    int querySum(int i, int s, int e, int l, int r) {
-        
-        if(s > r || e < l) return 0;
-        if(s >= l && e <= r) return segTree[i];
-        
-        int mid = s + (e-s)/2;
-        return querySum(2*i+1, s, mid, l, r) + querySum(2*i+2, mid+1, e, l, r);
-    }
+        void update(int i, int diff) {
+            while(i < N) {
+                fen[i] += diff;
+                i += (i & (-i));
+            }
+        }
+
+        int sum(int i) {
+            int s = 0;
+            while(i > 0) {
+                s += fen[i];
+                i += -(i & (-i));
+            }
+
+            return s;
+        }
+
+        int rangeSum(int l, int r) {
+            return sum(r) - sum(l-1);
+        }
 };
 class NumArray {
 public:
-    SegmentTree* s;
-    int n;
+    FenwickTree* f;
+    vector<int> arr;
     NumArray(vector<int>& nums) {
-        n = nums.size();
-        s = new SegmentTree(n);
-        s->buildTree(0, 0, n-1, nums);
+        int n = nums.size();
+        f = new FenwickTree(n);
+        f->buildTree(nums);
+        arr = nums;
     }
     
     void update(int index, int val) {
-        s->update(0, 0, n-1, index, val);
+        int original = arr[index];
+        int diff = val - original;
+        arr[index] = val;
+        f->update(index+1, diff);
     }
     
     int sumRange(int left, int right) {
-        return s->querySum(0, 0, n-1, left, right);
+        return f->rangeSum(left+1, right+1);
     }
 };
 
